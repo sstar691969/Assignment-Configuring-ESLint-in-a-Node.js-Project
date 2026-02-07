@@ -1,0 +1,22 @@
+{
+  "name": "ad311-eslint-project",
+  "version": "1.0.0",
+  "description": "ESLint setup practice for Node.js",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "lint": "eslint ."
+},
+  "keywords": [
+    "eslint",
+    "node",
+    "javascript"
+  ],
+  "author": "William Anderson",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/config-helpers": "^0.5.2",
+    "eslint": "^8.57.1",
+    "semistandard": "^17.0.0"
+  }
+}
